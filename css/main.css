@@ -38,7 +38,7 @@ body {
   font-family: 'Open Sans', Arial, Tahoma;
   font-weight: 400;
   font-size: 1em;
-  color: #363636;
+  color: #333333;
   background: #ededed;
 }
 
@@ -51,7 +51,7 @@ IMPRIMIR
   margin-right: 15px;
   color: #fff;
   padding: 10px;
-  background: #221177;
+  background: #333333;
   position: relative;
   font-size: 1.2em;
   border: 0px;
@@ -107,7 +107,7 @@ PHOTO (AVATAR)
 }
 
 #text-header h1 span {
-  color: #BAC2FF;
+  color: #333333;
 }
 
 #text-header h1 sup {
@@ -131,7 +131,7 @@ DEFAULT BOX
 }
 
 .box h2 {
-  color: #4E91FC;
+  color: #333333;
   font-size: 1.8em;
   font-weight: 700;
   text-transform: uppercase;
@@ -165,7 +165,7 @@ EDUCATION
   top: 0;
   content: ' ';
   display: block;
-  background: #4E91FC;
+  background: #333333;
   background: -moz-linear-gradient(top, #ffffff 0%, #4E91FC 7%, #4E91FC 89%, #ffffff 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(7%, #4E91FC), color-stop(89%, #4E91FC), color-stop(100%, #ffffff));
   background: -webkit-linear-gradient(top, #ffffff 0%, #4E91FC 7%, #4E91FC 89%, #ffffff 100%);
@@ -302,7 +302,7 @@ SKILLS
 *******************************************/
 .item-skills {
   height: 30px;
-  background: #BAC2FF;
+  background: #333333;
   color: #fff;
   padding: 5px 10px;
   margin-bottom: 5px;
@@ -396,7 +396,7 @@ HOBBIES
   margin-right: 5px;
   margin-bottom: 5px;
   padding: 5px 5px 5px 25px;
-  background: #221177;
+  background: #333333;
   position: relative;
   font-size: 1.2em;
 }
